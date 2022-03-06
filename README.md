@@ -4,3 +4,11 @@
 3. hhht
 ## yy
 ### dd
+'hello world'
+
+'''
+int a
+int b;
+a=3;
+'''
+
